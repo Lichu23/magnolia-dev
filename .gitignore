@@ -1,0 +1,4 @@
+﻿# Keep every markdown file private except the root README
+*.md
+!/README.md
+
